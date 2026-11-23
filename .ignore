@@ -1,0 +1,13 @@
+# Skipped by rg/fd (and agents' searches): big, generated or vendored files.
+*.lock
+package-lock.json
+pnpm-lock.yaml
+go.sum
+*.min.js
+*.min.css
+*.map
+*.snap
+dist/
+build/
+coverage/
+vendor/
